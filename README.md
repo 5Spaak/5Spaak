@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with AGTS-DATA<br>as a Data Analyst Student<br><br>_*_ 🌱 I’m currently learning Machine Learning and Deep Learning<br>_*_ 🤝 I’m open to freelancing projets<br>_*_ 💬 Ask me about data and AI<br>_*_ ⚡ Fun fact : I like to share my knowledge and learn from others everyday
+🔭 I’m currently working with AGTS-DATA<br>as a Data Analyst Student<br><br>_*_ 🌱 I’m currently learning Machine Learning and Deep Learning<br>_*_ 🤝 I’m open to freelancing projets<br>_*_ 💬 Ask me about Data and AI<br>_*_ ⚡ Fun fact : I like to share my knowledge and learn from others everyday
 
 
 ## 🌐 Socials:
